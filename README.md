@@ -11,7 +11,7 @@ Folder: returningdataandfunctions.py
 The updated version of the function to sum two numbers demonstrates improvements in code style and functionality.
 Folder: signatures.py
 The updated version improves the age display function by allowing for dynamic input of the number of years ago.
-# File: questions_clarity
+# thoughts
 The folder is dedicated to questions and clarifications related to the code and assignment.
 # Key Takeaways
 # Learning Process
