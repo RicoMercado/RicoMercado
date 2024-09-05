@@ -3,16 +3,16 @@ This repository has Python code and examples that show how to use functions and 
 # Sections
 # File: inspired_codes
 Folder: returningdataandfunctions.py
-This file demonstrates a basic function for summing two numbers.
+The folder demonstrates a basic function for summing two numbers.
 Folder: signatures.py
-This file shows a function that prints the age 10 years ago.
+The folder shows a function that prints the age 10 years ago.
 # File: my_code
 Folder: returningdataandfunctions.py
-This updated version of the function to sum two numbers demonstrates improvements in code style and functionality.
+The updated version of the function to sum two numbers demonstrates improvements in code style and functionality.
 Folder: signatures.py
-This updated version improves the age display function by allowing for dynamic input of the number of years ago.
+The updated version improves the age display function by allowing for dynamic input of the number of years ago.
 # File: questions_clarity
-This folder is dedicated to questions and clarifications related to the code and assignment.
+The folder is dedicated to questions and clarifications related to the code and assignment.
 # Key Takeaways
 # Learning Process
 Learned how code has improved over time, including better function design, clearer code, and more efficient practices.
