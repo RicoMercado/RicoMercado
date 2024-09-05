@@ -1,1 +1,8 @@
-
+# ReturningDataandFunctions
+Simplicity and Clarity: This code shows a simple and clear way to use functions in Python. The get_sum function is straightforward, making it easy to understand and use. This is in line with good coding practices, which stress the importance of keeping functions clear and simple.
+User Interaction: The code uses input() to interact with the user and collect data. This method works well for small scripts that need user input.
+Modern Practices: The code uses f-strings for formatting output, which is a modern and preferred method in Python. F-strings are easier to read and more efficient than older formatting techniques.
+# Signatures1.py
+Descriptive Function: The show_age_difference function is easy to understand and has a clear explanation in its docstring. This makes the code more readable and easier to maintain, so others or you in the future can quickly grasp what the function does.
+Age Calculation: The function calculates age based on how many years ago it was simply and effectively. It shows how to handle basic math operations in functions.
+Code Reusability: By creating the function separately and using it with different values, the code shows how to reuse the same logic with various inputs. This makes the code more flexible and efficient for different situations.
